@@ -20,12 +20,12 @@ ul #build-skill {
 }
 
 ul #plant-skill {
-    background-image: url('/assets/imgs/first-page/stardew-valley.webp');
+    background-image: url('/assets/imgs/first-page/stardew-valley-test.png');
     background-position: center center;
 }
 
 ul #dev-skill {
-    background-image: url('/assets/imgs/first-page/watch-dogs.webp');
+    background-image: url('/assets/imgs/first-page/watch-dogs\ test.jpg');
     background-position: center center;
 }
 
@@ -35,8 +35,8 @@ ul #defense-skill {
 }
 
 ul #survive-skill {
-    background-image: url('/assets/imgs/first-page/dayz.webp');
-    background-position: right center;
+    background-image: url('/assets/imgs/first-page/dayz-test.jpg');
+    background-position: right right;
 }
 
 
