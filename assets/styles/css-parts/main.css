@@ -19,6 +19,7 @@ ul #build-skill {
 
 ul #plant-skill {
     background-image: url('/assets/imgs/first-page/stardew-valley.webp');
+    background-position: center center;
 }
 
 ul #dev-skill {
