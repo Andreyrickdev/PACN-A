@@ -15,6 +15,11 @@ ul {
     cursor: pointer;
 }
 
+.skill:hover {
+    filter: none;
+    opacity: 0.7;
+}
+
 ul #build-skill {
     background-image: url('/assets/imgs/first-page/minecraft.webp');
     background-position: center center;
