@@ -6,12 +6,15 @@ ul {
     height: 100vh;
 }
 
-ul #build-skill {
-    background-image: url('/assets/imgs/first-page/minecraft.webp');
+.skill {
     background-position: center center;
     background-size: cover;
     width: 20%;
     height: 100vh;
+}
+
+ul #build-skill {
+    background-image: url('/assets/imgs/first-page/minecraft.webp');
 }
 
 ul #plant-skill {
