@@ -14,7 +14,9 @@ ul #build-skill {
     height: 100vh;
 }
 
-
+ul #plant-skill {
+    background-image: url('/assets/imgs/first-page/stardew-valley.webp');
+}
 
 
 
