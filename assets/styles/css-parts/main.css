@@ -12,6 +12,7 @@ ul {
     width: 20%;
     height: 100vh;
     filter: grayscale(100%);
+    cursor: pointer;
 }
 
 ul #build-skill {
