@@ -24,6 +24,7 @@ ul #plant-skill {
 
 ul #dev-skill {
     background-image: url('/assets/imgs/first-page/watch-dogs.webp');
+    background-position: center center;
 }
 
 ul #defense-skill {
