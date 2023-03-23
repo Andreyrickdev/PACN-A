@@ -12,6 +12,7 @@ ul {
     background-size: cover;
     width: 20%;
     height: 100vh;
+    filter: grayscale(100%);
 }
 
 ul #build-skill {
