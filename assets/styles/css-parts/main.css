@@ -14,6 +14,7 @@ ul {
 
 ul #build-skill {
     background-image: url('/assets/imgs/first-page/minecraft.webp');
+    background-position: center center;
 }
 
 ul #plant-skill {
