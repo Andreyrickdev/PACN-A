@@ -6,9 +6,14 @@ ul {
     display: flex;
 }
 
+li {
+    width: inherit;
+    height: inherit;
+}
+
 .skill {
     background-size: cover;
-    width: 20%;
+    width: 100%;
     height: 100vh;
     filter: grayscale(100%);
     cursor: pointer;
@@ -41,7 +46,7 @@ ul #defense-skill {
 
 ul #survive-skill {
     background-image: url('/assets/imgs/first-page/dayz-test.jpg');
-    background-position: right right;
+    background-position: left left;
 }
 
 
