@@ -11,6 +11,12 @@ li {
     height: inherit;
 }
 
+#li1 {background-color: #294bc4;}
+#li2 {background-color: #2dba6a;}
+#li3 {background-color: #552dba;}
+#li4 {background-color: #ba2d38;}
+#li5 {background-color: #ba612d;}
+
 .skill {
     background-size: cover;
     width: 100%;
