@@ -71,7 +71,9 @@ ul #survive-skill {
     display: none;
 }
 
-
+.principal-phrase .skill-phrase.active {
+    display: block;
+}
 
 
 
