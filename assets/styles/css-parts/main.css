@@ -55,7 +55,11 @@ ul #survive-skill {
     background-position: left left;
 }
 
-
+.principal-phrase {
+    position: absolute;
+    top:0;
+    z-index: 2;
+}
 
 
 
