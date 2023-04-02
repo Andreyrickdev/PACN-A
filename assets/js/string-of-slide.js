@@ -6,7 +6,7 @@ function stringOfSlide () {
     function showPhrases () {
         for (let i = 0; i < phrases.length; i++) {
             setTimeout ( () => {
-
+                phrase.innerText = phrases[i];
             }, i * 3000);
         }
     }
