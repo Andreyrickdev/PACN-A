@@ -5,7 +5,9 @@ function stringOfSlide () {
 
     function showPhrases () {
         for (let i = 0; i < phrases.length; i++) {
-            
+            setTimeout ( () => {
+
+            }, i * 3000);
         }
     }
 
