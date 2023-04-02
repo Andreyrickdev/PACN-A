@@ -4,7 +4,9 @@ function stringOfSlide () {
     const phrase = document.getElementById('first-phrase');
 
     function showPhrases () {
-        
+        for (let i = 0; i < phrases.length; i++) {
+            
+        }
     }
 
 
