@@ -67,14 +67,6 @@ ul #survive-skill {
     font-size: 2rem;
 }
 
-.principal-phrase .skill-phrase {
-    display: none;
-}
-
-.principal-phrase .skill-phrase.active {
-    display: block;
-}
-
 
 
 
