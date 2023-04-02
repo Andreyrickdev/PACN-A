@@ -13,6 +13,7 @@ function stringOfSlide () {
         setTimeout(showPhrases, phrases.length * 3000);
     }
 
+    showPhrases();
 
 
 
