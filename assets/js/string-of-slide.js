@@ -10,8 +10,7 @@ function stringOfSlide () {
     }
 
 
-    setInterval( () => {
-    })
+
 
 }
 stringOfSlide();
