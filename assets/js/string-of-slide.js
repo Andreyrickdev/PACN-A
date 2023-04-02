@@ -10,7 +10,7 @@ function stringOfSlide () {
             }, i * 3000);
         }
 
-        setTimeout(showPhrases, phrases.length * 3000);
+        setTimeout(showPhrases, phrases.length * 3000); //This setTimeout serves to define a fixed delay before restarting the loop, if it does not have it, the three words will be displayed and the first setTimeout will end.
     }
 
     showPhrases();
