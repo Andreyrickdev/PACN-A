@@ -9,6 +9,8 @@ function stringOfSlide () {
                 phrase.innerText = phrases[i];
             }, i * 3000);
         }
+
+        setTimeout(showPhrases, phrases.length * 3000);
     }
 
 
