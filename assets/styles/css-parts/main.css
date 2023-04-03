@@ -23,6 +23,7 @@ li {
     height: 100vh;
     filter: grayscale(100%);
     cursor: pointer;
+    position: relative;
 }
 
 .skill:hover {
