@@ -6,6 +6,12 @@ ul {
     display: flex;
 }
 
+@media (max-width: 1100px) {
+    ul {
+        
+    }
+}
+
 li {
     width: inherit;
     height: inherit;
