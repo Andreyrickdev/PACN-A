@@ -9,6 +9,7 @@ ul {
 li {
     width: inherit;
     height: inherit;
+    position: relative;
 }
 
 #li1 {background-color: #294bc4;}
