@@ -74,3 +74,11 @@ ul #survive-skill {
 /*--------------skills background end----------*/
 
 /*----------------sections with logo start-----------*/
+
+.sections {
+    display: grid;
+    justify-content: center;
+    position: absolute;
+    bottom: 20%;
+    width: 100%;
+}
